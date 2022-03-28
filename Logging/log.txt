@@ -1,0 +1,1 @@
+2022/03/28 16:19:48 Ocurrió un error: open noexiste.txt: El sistema no puede encontrar el archivo especificado.
